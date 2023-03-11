@@ -1,0 +1,18 @@
+{
+    "config": "./configs/configs.json",
+    "devices": 1,
+    "gpu": true,
+    "input": "C:/Users/knukl/OneDrive/TEC/ESTANCIA/Final/FINAL/input/",
+    "jobname": "",
+    "mode": "gpu",
+    "optimise_adversarial": false,
+    "optimise_classifier": true,
+    "output": "./output/",
+    "patches": [],
+    "tensorboard": false,
+    "theano": false,
+    "train": false,
+    "train_adversarial": false,
+    "train_classifier": true,
+    "verbose": false
+}
